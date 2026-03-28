@@ -1,5 +1,5 @@
-📊 Classification with Logistic Regression
-📌 Project Overview
+Classification with Logistic Regression
+Project Overview
 
 This project was completed as part of my internship at Codved (Level 2 - Task 2). The goal of this task is to build and evaluate classification models to predict a categorical outcome using machine learning techniques.
 
@@ -14,7 +14,7 @@ Precision
 Recall
 ROC Curve
 Compare performance with other classification models
-🛠️ Tools & Technologies
+Tools & Technologies
 Python
 pandas
 scikit-learn
@@ -25,22 +25,20 @@ The dataset used contains features for predicting a categorical outcome (e.g., f
 
 Multiple input features
 A target variable representing class labels
-⚙️ Data Preprocessing
+Data Preprocessing
 
 The following preprocessing steps were performed:
 
-Handling missing values (if any)
 Encoding categorical variables
 Feature scaling using standardization
 Splitting data into training and testing sets
-Models Implemented
 
 The following machine learning models were trained and evaluated:
 
 Logistic Regression
 Decision Tree Classifier
 Random Forest Classifier
-Support Vector Machine (SVM)
+
 Model Performance
 
 All models achieved perfect performance on the dataset:
@@ -49,7 +47,6 @@ Model	Accuracy
 Logistic Regression	1.0
 Decision Tree	1.0
 Random Forest	1.0
-SVM	1.0
 Evaluation Metrics:
 Precision: 1.0
 Recall: 1.0
@@ -78,3 +75,4 @@ This project demonstrates the effectiveness of classification algorithms in pred
 
 Muhammed Abdullahi
 Data Science Intern @ Codved
+
